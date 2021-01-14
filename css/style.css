@@ -370,7 +370,6 @@ button:focus {
     content: none; }
 
 .footer_area {
-  padding: 98px 0;
   position: relative; }
   .footer_area:before {
     content: '';
