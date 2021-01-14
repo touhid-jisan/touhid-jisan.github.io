@@ -370,7 +370,7 @@ button:focus {
     content: none; }
 
 .footer_area {
-  padding: 0 0;
+  padding: 120px 0;
   position: relative; }
   .footer_area:before {
     content: '';
@@ -379,7 +379,6 @@ button:focus {
     left: 0px;
     right: 0px;
     bottom: 0px;
-    background: #f9f9fd;
     z-index: -1; }
   @media (max-width: 1024px) {
     .footer_area {
